@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://remarkable-treacle-d10cc2.netlify.app/sitemap.xml
